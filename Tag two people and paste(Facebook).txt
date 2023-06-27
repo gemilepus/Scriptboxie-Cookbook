@@ -1,0 +1,16 @@
+[
+{"Enable":true,"Mode":"Delay","Action":"70","Event":"","Note":""},
+{"Enable":true,"Mode":"Key","Action":"BACK,1","Event":"","Note":"START TAG 1"},
+{"Enable":true,"Mode":"Delay","Action":"20","Event":"","Note":""},
+{"Enable":true,"Mode":"ModifierKey","Action":"SHIFT|2","Event":"","Note":"@"},
+{"Enable":true,"Mode":"Delay","Action":"80","Event":"","Note":""},
+{"Enable":true,"Mode":"Key","Action":"ENTER,1","Event":"","Note":""},
+{"Enable":true,"Mode":"Delay","Action":"20","Event":"","Note":""},
+{"Enable":true,"Mode":"Key","Action":"SPACE,1","Event":"","Note":"START TAG 2"},
+{"Enable":true,"Mode":"ModifierKey","Action":"SHIFT|2","Event":"","Note":"@"},
+{"Enable":true,"Mode":"Delay","Action":"20","Event":"","Note":""},
+{"Enable":true,"Mode":"Key","Action":"DOWN,10","Event":"","Note":""},
+{"Enable":true,"Mode":"Key","Action":"ENTER,10","Event":"","Note":""},
+{"Enable":true,"Mode":"Key","Action":"SPACE,10","Event":"","Note":""},
+{"Enable":true,"Mode":"ModifierKey","Action":"CTRL|V","Event":"","Note":""}
+]
