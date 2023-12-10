@@ -33,16 +33,5 @@
 {"Enable":true,"Mode":"Delay","Action":"100","Event":"","Note":""},
 {"Enable":true,"Mode":"Key","Action":"ENTER,Down","Event":"","Note":""},
 {"Enable":true,"Mode":"Key","Action":"ENTER,Up","Event":"","Note":""},
-{"Enable":true,"Mode":"Delay","Action":"100","Event":"","Note":""},
-{"Enable":true,"Mode":"Key","Action":"Space,Down","Event":"","Note":""},
-{"Enable":true,"Mode":"Key","Action":"Space,Up","Event":"","Note":""},
-{"Enable":true,"Mode":"Delay","Action":"30","Event":"","Note":""},
-{"Enable":true,"Mode":"Key","Action":"CTRL,Down","Event":"","Note":""},
-{"Enable":true,"Mode":"Key","Action":"V,Down","Event":"","Note":""},
-{"Enable":true,"Mode":"Key","Action":"CTRL,Up","Event":"","Note":""},
-{"Enable":true,"Mode":"Key","Action":"V,Up","Event":"","Note":""},
-{"Enable":true,"Mode":"Delay","Action":"100","Event":"","Note":""},
-{"Enable":true,"Mode":"Key","Action":"ENTER,Down","Event":"","Note":""},
-{"Enable":true,"Mode":"Delay","Action":"5","Event":"","Note":""},
-{"Enable":true,"Mode":"Key","Action":"ENTER,Up","Event":"","Note":""}
+{"Enable":true,"Mode":"Delay","Action":"100","Event":"","Note":""}
 ]
